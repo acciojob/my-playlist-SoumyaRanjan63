@@ -1,17 +1,21 @@
-/*  your css code here. If applicable */
-.container{
+body{
     background-color: #cccccc;
     width: 90%;
 }
+
 .player_one{
   border: 1px solid black;
    background-color: white;
    margin: 20px;
    border-radius: 8px;
-   text-decoration: none;
+   
 }
-p{
-    margin: 10px;
+ul{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
 }
 .player_two{
    border: 1px solid black;
